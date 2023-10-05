@@ -1,0 +1,68 @@
+.fontFamily{font-family: sans-serif;}
+.fontSizeXXLarge{font-size: xx-large;}
+.fontSizeXLarge{font-size: x-large;}
+.fontColorWhite{color: white;}
+.fontColorGreen{color: #22f222;}
+.fontColorBlack{color: black;}
+.fontColorRed{color: red;}
+
+.linkOne{
+  margin: 25px;
+  padding: 0;
+  background: hsl(246, 34%, 58%);
+}
+
+.linkTwo{
+  margin: 25px;
+  padding: 0;
+  background: hsl(313, 35%, 31%);
+}
+
+
+.linkThree{
+  margin: 25px;
+  padding: 0;
+  background: hsl(0, 37%, 41%);
+}
+
+body {
+    margin: 0;
+    padding: 10px;
+    margin: 10px;
+    background: aqua;
+  
+  }
+
+
+
+  h1 {
+    text-align: center;
+    line-height: 100px;
+    margin: 0;
+    background: purple;
+    height: 100px;
+
+  }
+
+  p{
+    margin: 0;
+    padding: 50px;
+    background: white;
+  }
+
+  img{
+    width: 250px;
+  }
+
+  .skillSection{
+    text-align: center;
+    background-color: yellow;
+    margin: 0;
+    padding: 25px;
+  }
+
+  footer{
+    text-align: left;
+  }
+
+  
